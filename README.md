@@ -4,7 +4,7 @@
 This project demonstrates SQL analysis on the Northwind trading company dataset. It covers schema exploration, sales KPIs, geographic revenue, product and supplier performance, monthly trends, employee sales, customer segmentation, and Pareto checks. Each query is explained clearly and runnable in a SQL-only Jupyter notebook using Jupysql.
 
 ## Dataset
-- SQLite database: `data/northwind.db`
+- SQLite database: `northwind.db`
 - Key tables: Orders, "Order Details", Customers, Products, Suppliers, Employees
 - Relationships:
   - Orders → Customers
